@@ -1,0 +1,1 @@
+Next, let's see if I can compare some weather data. And lastly, trying to use CMC or Coingecko's API's to grab some of their public data that they allow.
