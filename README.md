@@ -1,2 +1,2 @@
-Using APIs to call weather and news websites.
+Using APIs to gather weather data and news headlines.
 
